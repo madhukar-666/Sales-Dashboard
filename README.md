@@ -4,6 +4,7 @@
 
 A comprehensive Power BI dashboard that analyzes product sales performance, profitability metrics, and promotional effectiveness. This dashboard provides actionable insights to support data-driven business decisions.
 
+
 **Tools Used**
 
 Power BI: Dashboard development, visualizations, and metrics
